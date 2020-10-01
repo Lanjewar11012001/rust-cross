@@ -15,7 +15,7 @@ along the way.
 > please open an issue pointing out the problem and I'll update the text. Pull requests fixing
 > typos or broken links are, of course, welcome!
 
-## TL;DR Ubuntu example
+## TLDR Ubuntu example
 
 Here are the commands necessary to set up a stable Rust toolchain as a cross compiler for ARMv7 (\*)
 devices on a fresh Ubuntu Trusty install. The goal of this example is to show that cross compilation
